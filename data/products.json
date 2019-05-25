@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "item" : {"id" : "1"},
+            "fields" : {
+                "title": "This is the title",
+                "price" : 109.00,
+                "image" : { "fields" : { "file" : { "url" : "../images/image01.jpg" } } }
+            }
+        },
+        {
+            "item": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "This is the title 02",
+                "price": 109.00,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "../images/image02.jpg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
