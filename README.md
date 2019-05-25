@@ -1,1 +1,1 @@
-# JavaScript-Ecommerce-Project-
+# JavaScript-Ecommerce-Project
